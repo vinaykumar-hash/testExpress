@@ -1,0 +1,4 @@
+stages:
+  build: "npm install"
+  test: "npm test"
+  deploy: "npm start"
